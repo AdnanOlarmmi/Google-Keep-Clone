@@ -104,7 +104,7 @@ npx eslint .
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Math-Magicians/issues).
+Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Google-Keep-Clone/issues).
 
 ## Show your support
 
